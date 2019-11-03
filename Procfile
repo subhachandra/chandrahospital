@@ -1,1 +1,1 @@
-web: gunicorn Hospital-Management-System.wsgi --log-file -
+web: gunicorn chandrahospital.wsgi --log-file -
